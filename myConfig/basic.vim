@@ -11,6 +11,9 @@ set number
 set hlsearch
 set nowrapscan
 set noshowmode
+set noshowcmd
+set noruler
+set laststatus=0
 set signcolumn=yes
 set encoding=utf-8
 

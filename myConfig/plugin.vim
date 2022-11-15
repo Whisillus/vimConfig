@@ -10,6 +10,8 @@ Plug 'xuyuanp/nerdtree-git-plugin', {'on': 'NERDTreeToggle'}
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " Plug 'skywind3000/asynctasks.vim'
 " Plug 'skywind3000/asyncrun.vim'
+Plug 'petRUShka/vim-opencl'
+
 
 Plug 'easymotion/vim-easymotion'
 Plug 'mhinz/vim-signify'
