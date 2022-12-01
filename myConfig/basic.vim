@@ -17,6 +17,12 @@ set laststatus=0
 set signcolumn=yes
 set encoding=utf-8
 
+set list
+" set lcs=eol:~
+set lcs=
+set lcs+=space:·
+" set lcs+=tab:>-
+
 syntax on
 
 set tabstop=4
